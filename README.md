@@ -33,3 +33,8 @@ This project predicts house prices using Machine Learning models. The project in
 
 ✅ Random Forest achieved better performance with lower prediction errors and a higher R² Score.
 
+## Dataset
+
+House Price India Dataset
+
+Source: Kaggle
